@@ -6,6 +6,11 @@ import urllib3              # Controla avisos de conexão (SSL)
 import pandas as pd
 
 
+st.set_page_config(
+    page_title="Teste",
+    page_icon="🧪",
+    layout="wide"
+)
 
 
 
